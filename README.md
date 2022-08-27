@@ -4,17 +4,23 @@ AYCE is a tutoring center for underprivileged children at Hong Kong. This is the
 
 ### Developers (well, as of right now) 
   ```Rust
-  fn main() {
+  fn myName() {
     println!("Ian");
   }
   ```
   ```Javascript
-  console.log("Tony")
+  function myName() {
+    console.log("Tony")
+  }
   ```
   ```Java
-  System.out.println("Jayden")
+  public static void myName() {
+    System.out.println("Jayden")
+  }
   ```
   ```Javascript
-  console.log("Arthur")
+  function myName(){
+    console.log("Arthur")
+  }
   ```
 
