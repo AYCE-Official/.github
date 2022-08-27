@@ -2,7 +2,7 @@
 AYCE is a tutoring center for underprivileged children at Hong Kong. This is the github repo for the website.
 
 
-## Developers (well, as of right now) {
+### Developers (well, as of right now) {
   ```Javascript
   console.log("Ian");
   ```
@@ -15,4 +15,4 @@ AYCE is a tutoring center for underprivileged children at Hong Kong. This is the
   ```Rust
   print!("Arthur")
   ```
-}
+###}
